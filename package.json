@@ -31,6 +31,7 @@
     "yorkie": "^2.0.0"
   },
   "devDependencies": {
-    "@umijs/plugin-qiankun": "^2.7.0"
+    "@umijs/plugin-qiankun": "^2.7.0",
+    "happypack": "^5.0.1"
   }
 }
